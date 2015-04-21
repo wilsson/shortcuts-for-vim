@@ -21,3 +21,4 @@ Keyboard Shortcuts for Vim
 11| <kbd>ctrl + p</kbd> | Buscar un archivo en tu proyecto.
 12| <kbd>:buffers</kbd> | Vizualisar todos los buffers.
 13| <kbd>:buffer [#id]</kbd> | Selecciona documento del buffer.
+14| <kbd>:tabe</kbd> | Crear una nueva pestaña.

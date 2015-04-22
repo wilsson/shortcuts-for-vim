@@ -22,3 +22,4 @@ Keyboard Shortcuts for Vim
 12| <kbd>:buffers</kbd> | Vizualisar todos los buffers.
 13| <kbd>:buffer [#id]</kbd> | Selecciona documento del buffer.
 14| <kbd>:tabe</kbd> | Crear una nueva pestaña.
+15| <kbd>:e ~/.vimrc.local</kbd> | Entrar al archivo de configuración de vim.   

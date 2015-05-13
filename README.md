@@ -26,6 +26,6 @@ Keyboard Shortcuts for Vim
 16| <kbd>v + e</kbd> | Colocarse entre una cadena y resaltara hasta el final de la cadena.   
 17| <kbd>:set filetype=[nombre del formato]none</kbd> | Quitar el formato de un archivo.  
 17| <kbd>:set filetype=none</kbd> | Dar formato a un archivo.  
-18| <kbd>ctrl+u</kbd> | Retroceder de los cambios resientes.
-19| <kbd>ctrl+r</kbd> | Avanza a tus cambios futuros.
+18| <kbd>u</kbd> | Retroceder de los cambios resientes.
+19| <kbd>r</kbd> | Avanza a tus cambios futuros.
 20| <kbd>m</kbd> | Abrir el menu de un directorio o archivo.

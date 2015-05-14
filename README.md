@@ -29,3 +29,4 @@ Keyboard Shortcuts for Vim
 18| <kbd>u</kbd> | Retroceder de los cambios resientes.
 19| <kbd>r</kbd> | Avanza a tus cambios futuros.
 20| <kbd>m</kbd> | Abrir el menu de un directorio o archivo.
+21| <kbd>p</kbd> | Pegar.

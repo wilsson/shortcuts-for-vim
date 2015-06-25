@@ -25,8 +25,8 @@ Keyboard Shortcuts for Vim
 15| <kbd>:tabe</kbd> | Crear una nueva pestaña.
 16| <kbd>:e ~/.vimrc.local</kbd> | Entrar al archivo de configuración de vim.   
 17| <kbd>v + e</kbd> | Colocarse entre una cadena y resaltara hasta el final de la cadena.   
-18| <kbd>:set filetype=[nombre del formato]none</kbd> | Quitar el formato de un archivo.  
-19| <kbd>:set filetype=none</kbd> | Dar formato a un archivo.  
+18| <kbd>:set filetype=none</kbd> | Quitar el formato de un archivo.  
+19| <kbd>:set filetype=[nombre del formato]</kbd> | Dar formato a un archivo.  
 20| <kbd>u</kbd> | Retroceder de los cambios resientes.
 21| <kbd>r</kbd> | Avanza a tus cambios futuros.
 22| <kbd>m</kbd> | Abrir el menu de un directorio o archivo.

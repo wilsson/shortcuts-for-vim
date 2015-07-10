@@ -32,3 +32,4 @@ Keyboard Shortcuts for Vim
 22| <kbd>m</kbd> | Abrir el menu de un directorio o archivo.
 23| <kbd>p</kbd> | Pegar.
 24| <kbd>:q!</kbd> | Salir sin guardarse.
+25| <kbd>shift + c</kbd> | borrar donde estas hacia delante.

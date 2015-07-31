@@ -33,3 +33,4 @@ Keyboard Shortcuts for Vim
 23| <kbd>p</kbd> | Pegar.
 24| <kbd>:q!</kbd> | Salir sin guardarse.
 25| <kbd>shift + c</kbd> | borrar donde estas hacia delante.
+26| <kbd>c + a + w</kbd> | borra una palabra.

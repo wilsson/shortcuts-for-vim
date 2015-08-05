@@ -34,6 +34,8 @@ Keyboard Shortcuts for Vim
 
 ### spf13-vim
 
+[#] | Keyboard Shortcut | Action
+----- | ----- | -----
 1| <kbd>ctrl + p</kbd> | Buscar un archivo en tu proyecto.
 
 ### Modos de vim

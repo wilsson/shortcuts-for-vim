@@ -31,6 +31,7 @@ Keyboard Shortcuts for Vim
 21| <kbd>:q!</kbd> | Salir sin guardarse.
 22| <kbd>shift + c</kbd> | borrar donde estas hacia delante.
 23| <kbd>c + a + w</kbd> | borra una palabra.
+24| <kbd>*</kbd> | Ubicate en una palabra y te resaltara todas las iguales.
 
 ### Modos de vim
 

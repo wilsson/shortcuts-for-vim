@@ -16,22 +16,25 @@ Keyboard Shortcuts for Vim
 6| <kbd>/[palabra a buscar]</kbd> | Buscar un dato en el documento.
 7| <kbd>gg</kbd> | Ir a la primera linea.
 8| <kbd>G</kbd> | Ir a la ultima linea.
-9| <kbd>ctrl + p</kbd> | Buscar un archivo en tu proyecto.
-10| <kbd>:buffers</kbd> | Vizualisar todos los buffers.
-11| <kbd>:buffer [#id]</kbd> | Selecciona documento del buffer.
-12| <kbd>:tabe</kbd> | Crear una nueva pestaña.
-13| <kbd>:e ~/.vimrc.local</kbd> | Entrar al archivo de configuración de vim.   
-14| <kbd>v + e</kbd> | Colocarse entre una cadena y resaltara hasta el final de la cadena.   
-15| <kbd>:set filetype=none</kbd> | Quitar el formato de un archivo.  
-16| <kbd>:set filetype=[nombre del formato]</kbd> | Dar formato a un archivo.  
-17| <kbd>u</kbd> | Retroceder de los cambios resientes.
-18| <kbd>r</kbd> | Avanza a tus cambios futuros.
-19| <kbd>m</kbd> | Abrir el menu de un directorio o archivo.
-20| <kbd>p</kbd> | Pegar.
-21| <kbd>:q!</kbd> | Salir sin guardarse.
-22| <kbd>shift + c</kbd> | borrar donde estas hacia delante.
-23| <kbd>c + a + w</kbd> | borra una palabra.
-24| <kbd>*</kbd> | Ubicate en una palabra y te resaltara todas las iguales.
+9| <kbd>:buffers</kbd> | Vizualisar todos los buffers.
+10| <kbd>:buffer [#id]</kbd> | Selecciona documento del buffer.
+11| <kbd>:tabe</kbd> | Crear una nueva pestaña.
+12| <kbd>:e ~/.vimrc.local</kbd> | Entrar al archivo de configuración de vim.   
+13| <kbd>v + e</kbd> | Colocarse entre una cadena y resaltara hasta el final de la cadena.   
+14| <kbd>:set filetype=none</kbd> | Quitar el formato de un archivo.  
+15| <kbd>:set filetype=[nombre del formato]</kbd> | Dar formato a un archivo.  
+16| <kbd>u</kbd> | Retroceder de los cambios resientes.
+17| <kbd>c + r</kbd> | Avanza a tus cambios futuros.
+18| <kbd>m</kbd> | Abrir el menu de un directorio o archivo.
+19| <kbd>p</kbd> | Pegar.
+20| <kbd>:q!</kbd> | Salir sin guardarse.
+21| <kbd>shift + c</kbd> | borrar donde estas hacia delante.
+22| <kbd>c + a + w</kbd> | borra una palabra.
+23| <kbd>*</kbd> | Ubicate en una palabra y te resaltara todas las iguales.
+
+### spf13-vim
+
+1| <kbd>ctrl + p</kbd> | Buscar un archivo en tu proyecto.
 
 ### Modos de vim
 

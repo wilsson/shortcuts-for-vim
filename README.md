@@ -24,7 +24,7 @@ Keyboard Shortcuts for Vim
 14| <kbd>:set filetype=none</kbd> | Quitar el formato de un archivo.  
 15| <kbd>:set filetype=[nombre del formato]</kbd> | Dar formato a un archivo.  
 16| <kbd>u</kbd> | Retroceder de los cambios resientes.
-17| <kbd>c + r</kbd> | Avanza a tus cambios futuros.
+17| <kbd>ctrl + r</kbd> | Avanza a tus cambios futuros.
 18| <kbd>m</kbd> | Abrir el menu de un directorio o archivo.
 19| <kbd>p</kbd> | Pegar.
 20| <kbd>:q!</kbd> | Salir sin guardarse.

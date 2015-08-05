@@ -4,7 +4,7 @@ Keyboard Shortcuts for Vim
 
 ----------
 
-### **Terminal**
+### Terminal
 
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
@@ -32,7 +32,8 @@ Keyboard Shortcuts for Vim
 22| <kbd>shift + c</kbd> | borrar donde estas hacia delante.
 23| <kbd>c + a + w</kbd> | borra una palabra.
 
-Modos de vim
+### Modos de vim
+
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
 1| <kbd>ctrl + v</kbd> | Entrar al modo bloque visual.

@@ -29,6 +29,7 @@ Keyboard Shortcuts for Vim
 19| <kbd>p</kbd> | Pegar.
 20| <kbd>:q!</kbd> | Salir sin guardarse.
 21| <kbd>*</kbd> | Ubicate en una palabra y te resaltara todas las iguales.
+22| <kbd>shift + 0</kbd> | Indentar de forma correcta.
 
 ### Editar
 

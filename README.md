@@ -30,6 +30,7 @@ Keyboard Shortcuts for Vim
 20| <kbd>:q!</kbd> | Salir sin guardarse.
 21| <kbd>*</kbd> | Ubicate en una palabra y te resaltara todas las iguales.
 22| <kbd>shift + 0</kbd> | Indentar de forma correcta.
+23| <kbd>:%s/[mipalabra]/[reemplazo]/ig</kbd> | Reemplaza todas las coincidencias por otra.
 
 ### Editar
 

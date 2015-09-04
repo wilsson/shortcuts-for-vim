@@ -31,6 +31,7 @@ Keyboard Shortcuts for Vim
 21| <kbd>*</kbd> | Ubicate en una palabra y te resaltara todas las iguales.
 22| <kbd>shift + 0</kbd> | Indentar de forma correcta.
 23| <kbd>:%s/[mipalabra]/[reemplazo]/ig</kbd> | Reemplaza todas las coincidencias por otra.
+24| <kbd>:[número de linea]</kbd> | Ir hacia una linea especifica.
 
 ### Editar
 

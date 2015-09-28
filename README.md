@@ -32,6 +32,7 @@ Keyboard Shortcuts for Vim
 22| <kbd>shift + 0</kbd> | Indentar de forma correcta.
 23| <kbd>:%s/[mipalabra]/[reemplazo]/ig</kbd> | Reemplaza todas las coincidencias por otra.
 24| <kbd>:[número de linea]</kbd> | Ir hacia una linea especifica.
+25| <kbd>shift + d</kbd> | Eliminar desde un punto de la linea hasta el final de la linea.
 
 ### Editar
 
